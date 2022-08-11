@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac</h1>
 <h3 align="center">A passionate fullstack developper from Dominican Republic</h3>
-<img align="right" width="400" alt="Coding" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🔭 I’m currently working on **CRUD apps**
 
