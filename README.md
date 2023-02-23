@@ -1,5 +1,5 @@
-# 💫 About Me:
-A passionate fullstack developper.<br>🔭 I’m currently working on MERN applications.<br>📫 How to reach me isaacfelixmatos@gmail.com
+# 💫 About Me: <h1>A passionate fullstack developper.</h1>
+<br>🔭 I’m currently working on MERN applications.<br>📫 How to reach me isaacfelixmatos@gmail.com
 
 
 ## 🌐 Socials:
